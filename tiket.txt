@@ -1,0 +1,4 @@
+nino BG 1 RI Sedan 2 100000 9 Pencuci 1
+erico BG 2 RI Sedan 1 200000 9 Pencuci 2
+Azzam D 1 RI SUV 3 200000 9 Pencuci 1
+zidan D 2 RI SUV 2 150000 10 Pencuci 1
